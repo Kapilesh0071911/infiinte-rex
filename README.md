@@ -1,1 +1,2 @@
-# infiinte-rex
+# trex-pro
+trex project
